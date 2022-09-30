@@ -26,3 +26,7 @@ h1 {
 .web {
   text-decoration: underline;
 }
+
+img {
+  display: inline-block;
+}
