@@ -17,22 +17,15 @@ h3 {
   font-family: "Roboto", sans-serif;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+}
+
 .top-container {
   background-color: rgb(184, 115, 115);
   position: relative;
   padding-top: 100px;
-}
-
-.middle-container {
-  background-color: aquamarine;
-  height: 200px;
-  width: 200px;
-}
-
-.bottom-container {
-  background-color: yellowgreen;
-  height: 200px;
-  width: 200px;
 }
 
 .web {
